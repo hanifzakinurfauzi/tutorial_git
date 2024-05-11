@@ -1,4 +1,4 @@
-# Tutorial Data Modeling Titanic
+# Tutorial Penggunaan Github
 
 Tutorial ini akan mengolah data titanic menjadi data yang siap untuk dilakukan pemodelan
 
